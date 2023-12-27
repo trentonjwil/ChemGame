@@ -1,5 +1,3 @@
-OrgoPuzzle by Trenton W, 2023. 
-
 Part 0: Introduction and Concept
 This is a project designed to follow an undergraduate organic chemistry course by visualizing reactions. Resources that already exist to solve organic chemistry reactions include OrgoSolver and ACE mechanism calculator. 
 The unique part of this project will be the ability to highlight reaction sites and animate the reactions as they occur. Users will be able to see how the molecule moves over the course of the reaction.
